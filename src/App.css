@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto+Mono:ital@0;1&display=swap');
+
+.heading{
+  justify-content: center;
+  display: flex;
+  font-family: "Roboto Mono", monospace;
+  font-weight: 500;
+
+}
+
+
+.userName{
+  font-size: 22px;
+  font-weight: 450;
+  padding-left: 2rem;
+  cursor: pointer;
+}
+
+.bio{
+  font-size: 15px;
+  font-weight: 450;
+  color:#B4B4B8;
+  padding-left: 2rem;
+  margin-top: 0.7rem;
+}
+
+#followers{
+  padding-left: 0.5rem;
+  margin-top: 1rem;
+  font-size: 15px;
+  font-weight: 700;
+}
+
+#following{
+  padding-left: 0.2rem;
+  margin-top: 1rem;
+  font-size: 15px;
+  font-weight: 700;
+}
+#repo{
+  padding-left: 0.2rem;
+  margin-top: 1rem;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.icon{
+  padding-left: 2rem;
+  margin-top: 1rem;
+  color: #808080;
+}
+
+
+.contact{
+  margin-top: 0.5rem;
+  font-size: 15px;
+  font-weight: 600;
+  padding-left: 2.2rem;
+}
+
+.MuiDataGrid-root .MuiDataGrid-cell:focus-within {
+  outline: none !important;
+}
+
+.contactList{
+  margin-top: 1rem;
+  font-size: 13px;
+  font-weight: 500;
+  color:#8a8282;
+  padding-left: 0.5rem;
+}
+
